@@ -22,3 +22,4 @@ page:
   extension: md
 git:
   branch: src
+theme: jekyll-theme-cayman
