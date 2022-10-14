@@ -4,7 +4,7 @@ title: Tufte CSS
 subtitle: Reproduction of the tufte-css demo site by Dave Liepmann
 weight: 3
 ---
-
+{% raw %}
 Tufte CSS provides tools to style web articles using the ideas demonstrated by Edward Tufte's books and handouts. Tufte's style is known for its simplicity, extensive use of sidenotes, tight integration of graphics with text, and carefully chosen typography.
 
 Tufte CSS was created by [Dave Liepmann](http://www.daveliepmann.com) and is now an Edward Tufte project. The original idea was cribbed from [Tufte-{% latex %}](https://tufte-latex.github.io/tufte-latex/) and [R Markdown's Tufte Handout format](http://rmarkdown.rstudio.com/tufte_handout_format.html). We give hearty thanks to all the people who have contributed to those projects.
@@ -155,7 +155,7 @@ This is an ImageQuilt surveying Chinese calligraphy, placed in a full-width figu
 Here is an ImageQuilt of 47 animal sounds over and over, in a figure constrained to the main text region. This quilt has ragged edges, but the image itself is of course still rectangular.
 
 {% maincolumn 'assets/img/imagequilt-animal-sounds.png' '' %}
-
+{% raw %}
 ## Epilogue
 
 Many thanks go to Edward Tufte for leading the way with his work. It is only through his kind and careful editing that this project accomplishes what it does. All errors of implementation are of course mine.
