@@ -160,4 +160,4 @@ Here is an ImageQuilt of 47 animal sounds over and over, in a figure constrained
 
 Many thanks go to Edward Tufte for leading the way with his work. It is only through his kind and careful editing that this project accomplishes what it does. All errors of implementation are of course mine.
 
-{% raw %}
+{% raw %} 
