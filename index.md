@@ -9,3 +9,11 @@ weight: 1
 Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page, i.e., no sidenotes or marginnotes! 
 
 If you want to know what Tufte style comprises, have a look at the [Tufte CSS](./page/) page.
+
+<script src="https://cdn.jsdelivr.net/npm/darkmode-js@1.5.7/lib/darkmode-js.min.js"></script>
+<script>
+  function addDarkmodeWidget() {
+    new Darkmode().showWidget();
+  }
+  window.addEventListener('load', addDarkmodeWidget);
+</script>
