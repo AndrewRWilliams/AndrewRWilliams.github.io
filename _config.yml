@@ -2,15 +2,15 @@
 title: FranglAI
 # Whether the header (with large title and subtitle) should be displayed
 header: true
-subtitle: A Jekyll theme based on tufte-css
-author: Stephan Druskat
-email: mail [at] sdruskat [dot]
-description: A Jekyll theme based on tufte-css
+subtitle: Hi, I'm Andrew.
+author: Theme by Stephan Druskat
+email: williams.andrew1305 [at] gmail [dot] com
+description: Hi, I'm Andrew.
 markdown: kramdown
 markdown_ext: "markdown,mkdown,mkdn,mkd,md"
 highlighter: rouge
 permalink: /articles/:categories/:year/:month/:day/:title.html
-timezone: Europe/Berlin
+timezone: America/Montreal
 excerpt_separator: <!--more-->
 exclude: ['Gemfile', 'Gemfile.lock', 'Rakefile', 'DeployToGithub.Rakefile', 'README.md']
 post:
