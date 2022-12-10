@@ -1,13 +1,4 @@
 <!--- Header and nav template site-wide -->
-<style>
-	header {
-	  /* Use display: flex to position the title and nav elements side by side */
-	  display: flex;
-	  /* Align the items to the right side of the header */
-	  justify-content: flex-end;
-	}
-  </style>
-  
 <header>
 	<style>
 		nav {
@@ -35,17 +26,16 @@
 				{% endif %}
 			{% endunless %}
 		  {% endfor %}
-		</nav>
-	<a href="https://scholar.google.ca/citations?user=6gnCkJ0AAAAJ&hl=en">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar link" style="width:42px;height:42px;margin:10px;">
-		</a>
-	<a href="https://github.com/AndrewRWilliams">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github link" style="width:42px;height:42px;margin:10px;">
-		</a>
-	<a href="https://www.linkedin.com/in/andrew-robert-williams/">
-		<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn link" style="width:42px;height:42px;margin:10px;">
-		</a>
-	
+		<a href="https://scholar.google.ca/citations?user=6gnCkJ0AAAAJ&hl=en">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar link" style="width:42px;height:42px;margin:10px;">
+		  </a>
+		<a href="https://github.com/AndrewRWilliams">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github link" style="width:42px;height:42px;margin:10px;">
+		  </a>
+		<a href="https://www.linkedin.com/in/andrew-robert-williams/">
+			<img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn link" style="width:42px;height:42px;margin:10px;">
+		  </a>
+		</nav>	
 	{% if site.header == true %}
 		<h1 class="header-title"><a href="{{site.baseurl}}/">{{ site.title }}</a></h1>
 		{% if site.subtitle == "" or site.subtitle == nil %}
