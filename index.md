@@ -13,7 +13,7 @@ I also work on multi-agent deep learning for social good as an intern in [Yoshua
 
 
 My work primarily focuses on AI and interaction, both research and implementation.
-<span style="color:#006BB6">I implement AI tools to support education at the <i>Université</i> and explore how AI and the learning experience can improve each other.</span>
+<span style="color:#006BB6">I implement AI tools to support teaching and explore how AI and the learning experience can improve each other.</span>
 <span style="color:#7B2679">I also research how AI can be used to understand interaction and learning, and how we can use this understanding to improve AI.</span>
 
 Previously, I worked on quantum machine learning at the Université's LITQ lab under
