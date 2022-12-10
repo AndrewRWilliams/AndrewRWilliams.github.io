@@ -4,7 +4,7 @@ Based on Stephan Druskat's tufte-css-jekyll theme.
 
 ## [tufte-css](https://github.com/edwardtufte/tufte-css) wrapped in a comfy Jekyll theme with `rake` support
 
-*tufte-css-jekyll* aims at closely mimicking the [Edward Tufte](https://www.edwardtufte.com/tufte/)-inspired styles from [*tufte-css*](https://github.com/edwardtufte/tufte-css) ([MIT License](https://github.com/edwardtufte/tufte-css/blob/gh-pages/LICENSE)) in the framework of a [Jekyll](http://jekyllrb.com/) theme for satic pages and blog posts.
+*tufte-css-jekyll* aims at closely mimicking the [Edward Tufte](https://www.edwardtufte.com/tufte/)-inspired styles from [*tufte-css*](https://github.com/edwardtufte/tufte-css) ([MIT License](https://github.com/edwardtufte/tufte-css/blob/gh-pages/LICENSE)) in the framework of a [Jekyll](http://jekyllrb.com/) theme for satic pages.
 
 It is based heavily on previous work by [Clay Harmon](http://www.clayharmon.com/), who provides [*tufte-jekyll*](https://github.com/clayh53/tufte-jekyll) ([MIT License](https://github.com/clayh53/tufte-jekyll/blob/master/LICENSE)) which also draws heavily on *tufte-css*, albeit with some stylistical deviations. In comparison, *tufte-css-jekyll* tries to stay as true to *tufte-css* as possible.
 
