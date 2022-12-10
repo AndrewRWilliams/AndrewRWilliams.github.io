@@ -11,7 +11,7 @@ weight: 1
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github link" style="width:42px;height:42px;">
 </a>
 <a href="https://www.linkedin.com/in/andrew-robert-williams/">
-  <img src="https://commons.wikimedia.org/wiki/Category:LinkedIn_icons#/media/File:LinkedIn_icon.svg" alt="Github link" style="width:42px;height:42px;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg" alt="LinkedIn link" style="width:42px;height:42px;">
 </a>
 
 I work on AIxEducation at the 
