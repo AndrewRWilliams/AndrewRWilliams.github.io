@@ -7,7 +7,7 @@ weight: 1
 I work on AIxEducation at the 
 <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none">Université de Montréal</a>'s 
 university pedagogy center.
-I'm also an intern in  [Yoshua Bengio](https://yoshuabengio.org/)'s lab at 
+I also work on multi-agent deep learning for social good as an intern in  [Yoshua Bengio](https://yoshuabengio.org/)'s lab at 
 <a href="https://mila.quebec/en/" style="color:#7B2679;text-decoration:none">Mila - Quebec AI Institute</a> in Montréal, Canada.
 
 
