@@ -1,5 +1,5 @@
 ---
-title: "This is a birthday pony!"
+title: "Test title"
 layout: post
 ---
 
