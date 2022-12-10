@@ -4,8 +4,9 @@ title: About
 weight: 1
 ---
 
-*tufte-css-jekyll* is a theme based on [*tufte-css*](https://github.com/edwardtufte/tufte-css), which in turn implements the design ideas of Edward Tufte in CSS, and [*tufte-jekyll*](https://github.com/clayh53/tufte-jekyll) (but tries to stick more closely to the original tufte-css styles than the latter).
+I'm work on AIxEducation at the <span style="color:blue">Université de Montréal</span>. 
+I'm also an intern in  [Yoshua Bengio](https://yoshuabengio.org/)'s lab at <span style="color:purple">.[Mila - Quebec AI Institute](https://mila.quebec/en/)</span> in Montréal, Canada.
 
-Note that this is a full-width layout. This was accomplished by including ```layout: full-width``` in the YAML front matter for this page, i.e., no sidenotes or marginnotes! 
-
-If you want to know what Tufte style comprises, have a look at the [Tufte CSS](./page/) page.
+My work primarily focuses on AI and interaction, both in research and implementation.
+<span style="color:blue">I work on the intersection of AI and education, and how AI and the learning experience can improve each other.</span>
+<span style="color:purple">I also research how AI can be used to understand interaction and learning, and how we can use this understanding to improve AI.</span>
