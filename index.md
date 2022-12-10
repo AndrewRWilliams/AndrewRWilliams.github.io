@@ -4,6 +4,10 @@ title: About
 weight: 1
 ---
 
+<a href="https://scholar.google.ca/citations?user=6gnCkJ0AAAAJ&hl=en">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar link" style="width:42px;height:42px;">
+</a>
+
 I work on AIxEducation at the 
 <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none"><i>Université de Montréal</i></a>'s 
 university pedagogy center.
