@@ -4,7 +4,7 @@ title: About
 weight: 1
 ---
 
-I work on AIxEducation at the <span style="color:#006BB6">Université de Montréal</span>. 
+I work on AIxEducation at the <span style="color:#006BB6">Université de Montréal</span>'s university pedagogy center. 
 I'm also an intern in  [Yoshua Bengio](https://yoshuabengio.org/)'s lab at 
 <a href="https://mila.quebec/en/" style="color:#7B2679;">Mila - Quebec AI Institute</a> in Montréal, Canada.
 
