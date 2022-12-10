@@ -12,7 +12,7 @@ I also work on multi-agent deep learning for social good as an intern in  [Yoshu
 
 
 
-My work primarily focuses on AI and interaction, both in research and implementation.
+My work primarily focuses on AI and interaction, both research and implementation.
 <span style="color:#006BB6">I work on the intersection of AI and education, and how AI and the learning experience can improve each other.</span>
 <span style="color:#7B2679">I also research how AI can be used to understand interaction and learning, and how we can use this understanding to improve AI.</span>
 
