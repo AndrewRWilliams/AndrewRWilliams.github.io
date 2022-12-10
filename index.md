@@ -7,6 +7,12 @@ weight: 1
 <a href="https://scholar.google.ca/citations?user=6gnCkJ0AAAAJ&hl=en">
   <img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar link" style="width:42px;height:42px;">
 </a>
+<a href="https://github.com/AndrewRWilliams">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/91/Octicons-mark-github.svg" alt="Github link" style="width:42px;height:42px;">
+</a>
+<a href="https://www.linkedin.com/in/andrew-robert-williams/">
+  <img src="https://commons.wikimedia.org/wiki/Category:LinkedIn_icons#/media/File:LinkedIn_icon.svg" alt="Github link" style="width:42px;height:42px;">
+</a>
 
 I work on AIxEducation at the 
 <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none"><i>Université de Montréal</i></a>'s 
