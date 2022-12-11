@@ -289,7 +289,7 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 .larger { font-size: 2.8rem; }
 
-header > nav.group, body footer { width: 95%; padding-top: 2rem; }
+header > nav.group, body footer { width: 95%; padding-top: 1rem; }
 
 nav.group a.active { font-weight: bold; }
 
