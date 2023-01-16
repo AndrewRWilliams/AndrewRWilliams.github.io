@@ -16,7 +16,7 @@
     }
   </style>
   <nav class="group">
-    {% assign pg = site.pages | sort: "weight" %}
+<!--     {% assign pg = site.pages | sort: "weight" %}
     {% for node in pg %}
       {% unless node.nav_exclude or node.url contains ".css" %}
         {% if page.url == node.url %}
@@ -25,7 +25,7 @@
           <a href="{{node.url | prepend: site.baseurl}}">{{node.title}}</a>
         {% endif %}
       {% endunless %}
-    {% endfor %}
+    {% endfor %} -->
 	<a href="https://scholar.google.ca/citations?user=6gnCkJ0AAAAJ&hl=en">
 		<img src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Scholar_logo.svg" alt="Google Scholar link" style="width:42px;height:42px;margin:10px;">
 	  </a>
