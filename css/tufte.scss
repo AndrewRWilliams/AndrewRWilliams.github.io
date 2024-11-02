@@ -438,27 +438,28 @@ nav.group a.active { font-weight: bold; }
 nav.group a.active:before{ content:"\0003e\000a0"; } // escaped unicode for the carats and then a space on active menu links
 nav.group a.active:after{ content:"\000a0\0003c" ;}
 
-header > nav  a{
+header > nav {
+  display: flex;
+  align-items: center;
+}
+
+header > nav a {
   font-size: 1.2rem;
   font-family: $sans-font;
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: $contrast-color;
   text-decoration: none;
-  display: inline-block;
-  float: left;
-  margin-top: 0;
-  margin-bottom: 0;
-  padding-right: 2rem;
-  //margin-left: 1rem;
-  vertical-align: baseline;
+  padding: 1rem 2rem 1rem 0;
+  display: flex;
+  align-items: center; /* Center text and image within the link */
 }
-header > nav a img{
-  height: 5rem;
-  position: relative;
+
+header > nav a img {
+  height: 4rem; /* Adjust this as needed */
   max-width: 100%;
-  top:-1.5rem;
 }
+
 ul.footer-links, .credits{
   list-style: none;
   text-align: center;
