@@ -14,9 +14,9 @@ Before that, I did my M.Sc. on quantum machine learning at the Université de Mo
 [Gilles Brassard](http://www.iro.umontreal.ca/~brassard/web/en/) and [Alain Tapp](https://sites.google.com/view/alain-tapp-mila/).
 
 My current research interests include: 
-* general-purpose forecasting methods, especially the relevance of additional, non-numerical contextual information
+* general-purpose forecasting methods, especially the relevance of additional, non-numerical contextual information.
 * the relationship between accurate forecasts, control theory and capable world models.
-* Forecasting in multi-agent settings, in particular the impact of negotiation
+* Forecasting in multi-agent settings, in particular the impact of negotiation.
 
 
 
