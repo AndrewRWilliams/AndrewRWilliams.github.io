@@ -432,7 +432,6 @@ label.margin-toggle:not(.sidenote-number) { display: none; }
 
 header > nav.group, body footer {
   width: 95%;
-  padding-top: 2rem;
 }
 
 nav.group a.active { font-weight: bold; }
@@ -445,7 +444,7 @@ header > nav  a{
   letter-spacing: 0.15em;
   text-transform: uppercase;
   color: $contrast-color;
-  padding-top: 1.5rem;
+  padding-top: 0.5rem;
   text-decoration: none;
   display: inline-block;
   float: left;
