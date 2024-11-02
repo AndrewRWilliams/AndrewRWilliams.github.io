@@ -10,7 +10,7 @@ Previously, I worked on multi-agent deep learning for social good as an intern i
 I also consulted on AI and Education at the
 <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none"><i>Université de Montréal</i></a>'s
 university pedagogy center.
-Before that, I completex an M.Sc. on quantum machine learning at the Université de Montréal's LITQ lab under
+Before that, I completed an M.Sc. on quantum machine learning at the Université de Montréal's LITQ lab under
 [Gilles Brassard](http://www.iro.umontreal.ca/~brassard/web/en/) and [Alain Tapp](https://sites.google.com/view/alain-tapp-mila/).
 
 My current research interests include:
