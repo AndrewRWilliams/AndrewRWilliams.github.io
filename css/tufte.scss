@@ -53,6 +53,14 @@ html{
 
 @media screen and (min-width: 1300px){ html{ font-size: 17px; } }
 
+/* Adds dark mode */
+@media (prefers-color-scheme: dark) {
+    body {
+        background-color: #151515;
+        color: #ddd;
+    }
+}
+
 // sets link style according to values in _settings.scss
 .mathblock{
   font-size: 1.3rem;
