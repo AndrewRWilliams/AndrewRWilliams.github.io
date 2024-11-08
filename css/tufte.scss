@@ -61,18 +61,34 @@ html{
     }
 }
 
-/* Dark mode styles */
-body.dark-mode {
-  background-color: #151515;
-  color: #ddd;
+/* Base Light Mode */
+body {
+    background-color: #fffff8;
+    color: #111;
 }
 
-/* Additional dark mode styles for elements */
-body.dark-mode header,
-body.dark-mode footer,
-body.dark-mode a {
-  color: #ddd;
+/* Dark mode styles */
+body.dark-mode {
+    background-color: #151515;
+    color: #ddd;
 }
+
+/* Additional dark mode adjustments */
+body.dark-mode h1, 
+body.dark-mode h2, 
+body.dark-mode h3 {
+    color: #ddd;
+}
+
+body.dark-mode a {
+    color: #bb86fc; /* Use a lighter color for links in dark mode */
+}
+
+body.dark-mode hr {
+    border-top: 1px solid #333;
+}
+
+/* You can add more specific dark mode styles here as needed */
 
 // sets link style according to values in _settings.scss
 .mathblock{
