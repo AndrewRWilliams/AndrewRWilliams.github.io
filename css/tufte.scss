@@ -88,6 +88,18 @@ body.dark-mode hr {
     border-top: 1px solid #333;
 }
 
+/* Base light mode styles */
+#moon-icon {
+  font-size: 1.5rem; /* Adjust size as needed */
+  color: #333; /* Dark color for light mode */
+  transition: color 0.3s ease;
+}
+
+/* Dark mode styles */
+body.dark-mode #moon-icon {
+  color: #ffde59; /* Lighter or yellow color for dark mode */
+}
+
 /* You can add more specific dark mode styles here as needed */
 
 // sets link style according to values in _settings.scss
