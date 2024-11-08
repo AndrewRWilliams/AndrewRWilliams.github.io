@@ -61,12 +61,18 @@ html{
     }
 }
 
-/* Forced dark mode via dark-mode class */
-.dark-mode {
+/* Dark mode styles */
+body.dark-mode {
   background-color: #151515;
   color: #ddd;
 }
 
+/* Additional dark mode styles for elements */
+body.dark-mode header,
+body.dark-mode footer,
+body.dark-mode a {
+  color: #ddd;
+}
 
 // sets link style according to values in _settings.scss
 .mathblock{
