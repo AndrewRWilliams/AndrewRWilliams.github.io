@@ -38,10 +38,18 @@
                 style="width: 42px; height: 42px; margin: 10px"
             />
         </a>
-        <button id="theme-toggle">Toggle Dark Mode</button>
+        <input type="checkbox" id="theme-toggle" />
     </h1>
     <nav class="group">
         <a href="{{ site.baseurl }}/projects">Projects</a>
         <a href="{{ site.baseurl }}/blog">Blog</a>
     </nav>
 </header>
+
+<script>
+  const themeToggle = document.getElementById("theme-toggle");
+
+  themeToggle.addEventListener("change", () => {
+    document.body.classList.toggle("dark-mode", themeToggle.checked);
+  });
+</script>
