@@ -6,8 +6,7 @@ weight: 1
 
 ## Hi, I'm Andrew.
 
-I am a Phd student under Irina Rish at <a href="https://mila.quebec/en/" style="color:#7B2679;text-decoration:none">Mila - Quebec AI Institute</a> and <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none"><i>Université de Montréal</i></a>, and under Nicolas Chapados at <a href="https://www.servicenow.com/research/"> ServiceNow Research</a>, where I am currently a visiting researcher until August 2025.
-I am interested in the use of foundation models to support decision-making under uncertainty.
+I am a Phd student interested in the use of foundation models to support decision-making under uncertainty. I study under Irina Rish at <a href="https://mila.quebec/en/" style="color:#7B2679;text-decoration:none">Mila - Quebec AI Institute</a> and <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none"><i>Université de Montréal</i></a>, and under Nicolas Chapados at <a href="https://www.servicenow.com/research/"> ServiceNow Research</a>, where I am currently a visiting researcher until August 2025.
 
 My current research interests include:
 * Forecasting foundation models that leverage transfer learning and "context", i.e. additional information such as relevant documents.
