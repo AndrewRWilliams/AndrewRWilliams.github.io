@@ -4,7 +4,7 @@ title: About
 weight: 1
 ---
 
-## Hi, I'm Andrew.
+## Hi, I'm Andrew Williams.
 
 I am a Phd student interested in the use of foundation models to support decision-making under uncertainty. I study under Irina Rish at <a href="https://mila.quebec/en/" style="color:#7B2679;text-decoration:none">Mila - Quebec AI Institute</a> and <a href="https://www.umontreal.ca/" style="color:#006BB6;text-decoration:none"><i>Université de Montréal</i></a>, and under Nicolas Chapados at <a href="https://www.servicenow.com/research/" style="color:#59e03c;text-decoration:none"> ServiceNow Research</a>, where I am currently a visiting researcher until August 2025.
 
