@@ -1,5 +1,7 @@
 # Note: If you want to deploy to a GitHub user site (user.github.io), change baseurl to /
 title: FranglAI
+repository: AndrewRWilliams/AndrewRWilliams.github.io
+url: https://AndrewRWilliams.github.io
 subtitle: Hi, I'm Andrew.
 # Whether the header (with large title and subtitle) should be displayed
 header: true
