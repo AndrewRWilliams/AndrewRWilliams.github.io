@@ -1,6 +1,7 @@
 source 'https://rubygems.org'
 
-gem 'github-pages', '~> 228', group: :jekyll_plugins
+gem 'jekyll', '~> 3.9'
+gem 'jekyll-github-metadata'
 gem 'rouge'
 
 gem 'tzinfo', '~> 2.0'
