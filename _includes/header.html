@@ -1,5 +1,5 @@
 <!--- Header and nav template site-wide -->
-<header>
+<header style="position: relative; width: 95%;">
     <style>
         nav {
             /* Add some padding and a background color to the nav element */
@@ -10,6 +10,7 @@
             /* Remove the underlines from the links */
             text-decoration: none;
             /* Make the text white and slightly larger */
+            text-decoration: none;
         }
 
         nav a:hover {
@@ -42,7 +43,7 @@
         <a href="{{ site.baseurl }}/blog">Blog</a>
         <a href="{{ site.baseurl }}/cv">CV</a>
     </nav>
-    <div style="position: fixed; top: 20px; right: 20px; z-index: 9999;">
+    <div style="position: absolute; top: 20px; right: 0; z-index: 9999;">
         <label for="theme-toggle" style="cursor: pointer; font-size: 1.5em;" title="Toggle Dark Mode">
             <input type="checkbox" id="theme-toggle" style="display: none;">
             <span id="moon-icon">&#9789;</span>
