@@ -1,6 +1,6 @@
 ---
 layout: post
-categories: [research]
+categories: [blog]
 title: "Research Interests"
 date: 2026-02-17
 ---
