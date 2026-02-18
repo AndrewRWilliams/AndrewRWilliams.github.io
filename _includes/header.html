@@ -5,11 +5,13 @@
             /* Add some padding and a background color to the nav element */
             padding: 10px;
         }
+
         nav a {
             /* Remove the underlines from the links */
             text-decoration: none;
             /* Make the text white and slightly larger */
         }
+
         nav a:hover {
             /* Change the text color when the mouse hovers over the link */
             color: #ccc;
@@ -18,43 +20,34 @@
     <h1 class="header-title">
         <a href="{{ site.baseurl }}/">{{ site.title }}</a>
         <a href="https://scholar.google.ca/citations?user=6gnCkJ0AAAAJ&hl=en">
-            <img
-                src="/google-scholar-icon.svg"
-                alt="Google Scholar link"
-                style="width: 42px; height: 42px; margin: 10px; filter: grayscale(100%) brightness(0%);"
-            />
+            <img src="/google-scholar-icon.svg" alt="Google Scholar link"
+                style="width: 42px; height: 42px; margin: 10px; filter: grayscale(100%) brightness(0%);" />
         </a>
         <a href="https://github.com/AndrewRWilliams">
-            <img
-                src="/github-icon.svg"
-                alt="Github link"
-                style="width: 42px; height: 42px; margin: 10px;"
-            />
+            <img src="/github-icon.svg" alt="Github link" style="width: 42px; height: 42px; margin: 10px;" />
         </a>
         <a href="https://www.linkedin.com/in/andrew-robert-williams/">
-            <img
-                src="/linkedin-icon.png"
-                alt="LinkedIn link"
-                style="width: 42px; height: 42px; margin: 10px; filter: grayscale(100%) contrast(1000%);"
-            />
+            <img src="/linkedin-icon.png" alt="LinkedIn link"
+                style="width: 42px; height: 42px; margin: 10px; filter: grayscale(100%) contrast(1000%);" />
         </a>
     </h1>
     <p style="margin-top: -40px; margin-left: 10px">
-    Andrew Williams
+        Andrew Williams
     </p>
     <p style="font-size: 0.85em; color: gray; margin-top: -10px; margin-left: 10px;">
-    first [dot] last [at] umontreal [dot] ca
+        first [dot] last [at] umontreal [dot] ca
     </p>
-<!--     <nav class="group">
-        <a href="{{ site.baseurl }}/projects">Projects</a>
+    <nav class="group">
+        <a href="{{ site.baseurl }}/work">Research</a>
         <a href="{{ site.baseurl }}/blog">Blog</a>
-    </nav> -->
+        <a href="{{ site.baseurl }}/cv">CV</a>
+    </nav>
 </header>
 
 <script>
-  const themeToggle = document.getElementById("theme-toggle");
+    const themeToggle = document.getElementById("theme-toggle");
 
-  themeToggle.addEventListener("change", () => {
-    document.body.classList.toggle("dark-mode", themeToggle.checked);
-  });
+    themeToggle.addEventListener("change", () => {
+        document.body.classList.toggle("dark-mode", themeToggle.checked);
+    });
 </script>

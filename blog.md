@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Tufte CSS
-subtitle: Reproduction of the tufte-css demo site by Dave Liepmann
+title: Blog
+
 weight: 3
 ---
 
