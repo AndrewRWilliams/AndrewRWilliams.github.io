@@ -31,12 +31,12 @@ The site uses custom Liquid tags to support the Tufte layout:
 
 | Tag | Usage | Description |
 | :--- | :--- | :--- |
-| `{% sidenote id 'Note text' %}` | Sidenote in the margin (numbered). |
-| `{% marginnote id 'Note text' %}` | Margin note (unnumbered). |
-| `{% newthought 'Text' %}` | Renders text in small caps. |
-| `{% epigraph 'Quote' 'Author' %}` | Blockquote with attribution. |
-| `{% maincolumn 'img.jpg' 'Cap' %}` | Image constrained to text column. |
-| `{% fullwidth 'img.jpg' 'Cap' %}` | Image spanning full page width. |
+| `{% raw %}{% sidenote id 'Note text' %}{% endraw %}` | Sidenote in the margin (numbered). |
+| `{% raw %}{% marginnote id 'Note text' %}{% endraw %}` | Margin note (unnumbered). |
+| `{% raw %}{% newthought 'Text' %}{% endraw %}` | Renders text in small caps. |
+| `{% raw %}{% epigraph 'Quote' 'Author' %}{% endraw %}` | Blockquote with attribution. |
+| `{% raw %}{% maincolumn 'img.jpg' 'Cap' %}{% endraw %}` | Image constrained to text column. |
+| `{% raw %}{% fullwidth 'img.jpg' 'Cap' %}{% endraw %}` | Image spanning full page width. |
 
 ## Local Development (Optional)
 Prerequisites: Ruby 3.x, Bundler.
