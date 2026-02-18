@@ -38,6 +38,11 @@ The site uses custom Liquid tags to support the Tufte layout:
 | `{% raw %}{% maincolumn 'img.jpg' 'Cap' %}{% endraw %}` | Image constrained to text column. |
 | `{% raw %}{% fullwidth 'img.jpg' 'Cap' %}{% endraw %}` | Image spanning full page width. |
 
+## Troubleshooting & Gotchas
+- **Liquid Syntax Errors**: If you write about the custom tags in a post (e.g., showing a code example), you **must** wrap the example in `{% raw %}` and `{% endraw %}`. Otherwise, Jekyll will try to execute the tag and the build will fail.
+- **Gemfile.lock**: The repository does not include `Gemfile.lock`. This is intentional to prevent platform mismatches between Windows (local) and Linux (GitHub Actions).
+- **Vendor Directory**: The `vendor/` directory is excluded in `_config.yml` to prevent Jekyll from recursively acting on dependency files.
+
 ## Local Development (Optional)
 Prerequisites: Ruby 3.x, Bundler.
 ```bash
