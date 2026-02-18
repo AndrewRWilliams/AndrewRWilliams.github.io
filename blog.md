@@ -1,10 +1,11 @@
 ---
-layout: page
+layout: default
 title: Blog
 
 weight: 3
 ---
 
+<h1 class="content-listing-header sans">Blog</h1>
 <ul class="content-listing ">
   {% for post in site.categories.blog %}
       <li class="listing">
