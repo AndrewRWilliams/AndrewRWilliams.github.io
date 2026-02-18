@@ -5,15 +5,18 @@ title: work
 weight: 2
 ---
 
-<p> At the Université de Montréal's pedagogy center, I work on the intersection of AI and education, and how AI and the learning experience can improve each other.</p>
-  <h1 class="content-listing-header sans">Articles</h1>
-  <ul class="content-listing ">
-    {% for post in site.posts %}      
-        <li class="listing">
-          <hr class="slender">
-          <a href="{{ post.url | prepend: site.baseurl }}"><h2 class="larger">{{ post.title }}</h2></a>
-          <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span>  <br/>
-          <div>{{ post.excerpt }}</div> 
-        </li>
-    {% endfor %}
-  </ul>
+<p> At the Université de Montréal's pedagogy center, I work on the intersection of AI and education, and how AI and the
+  learning experience can improve each other.</p>
+<h1 class="content-listing-header sans">Articles</h1>
+<ul class="content-listing ">
+  {% for post in site.categories.research %}
+  <li class="listing">
+    <hr class="slender">
+    <a href="{{ post.url | prepend: site.baseurl }}">
+      <h2 class="larger">{{ post.title }}</h2>
+    </a>
+    <br><span class="smaller">{{ post.date | date: "%B %-d, %Y" }}</span> <br />
+    <div>{{ post.excerpt }}</div>
+  </li>
+  {% endfor %}
+</ul>
